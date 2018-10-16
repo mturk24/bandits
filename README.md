@@ -1,4 +1,4 @@
-# bandits
+# Multi-Armed Bandit algorithm solutions on advertisement data
 
 ~ Added in code for Epsilon-Greedy strategy and fixed issue for python division where integers and floats are handled property ~
 
